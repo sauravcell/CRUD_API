@@ -1,12 +1,5 @@
 # Getting started
 
-1. Clone the repo :
-
-        git clone https://github.com/dasjayeeta/Das-Solutions.git
-
-1. Open the folder in VS Code or go to the folder :
-
-        cd Das-Solutions
 
 1. Install NPM modules :
 
